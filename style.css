@@ -186,13 +186,12 @@ body {
 }
 
 .call-to-action button {
-    margin: 10px 15px;
+    margin-right: 80px;
     border: 2px solid #F9FAF8;
     color: #F9FAF8;
     background-color: var(--primary-color);
     border-radius: 5px;
     padding: 5px 15px;
-    flex: 1 0 auto;
 }
 
 .footer {
@@ -200,6 +199,6 @@ body {
     background-color: #1F2937;
     justify-content: center;   
     align-items: center;
-    padding: 30px;
+    padding: 50px;
     color: #F9FAF8;
 }
